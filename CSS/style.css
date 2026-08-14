@@ -30,7 +30,7 @@ i {
 
 .ElementNiveau {
   border-radius: 50%;
-  display: inline-block;
+  /*display: inline-block;*/
   width: 15px;
   height: 15px;
   float: right;
